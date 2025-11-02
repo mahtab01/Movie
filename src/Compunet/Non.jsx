@@ -4,7 +4,7 @@ function Non() {
     return(
         <div>
             <div className="border  bg-success">
-            <span className="text-dark"> Non-Starters </span> 
+            <span className="text-dark">  </span> 
             <div>
            <img className="w-100 img-fluid" src={a1}/>
             </div>
@@ -12,7 +12,7 @@ function Non() {
             <span className="text-dark text-center"> more info </span> 
             </div>
             <div className="text-center">
-            <i class="bi bi-x-circle-fill"></i>
+            <i className="bi bi-x-circle-fill"></i>
             </div>
             </div>
         </div>
